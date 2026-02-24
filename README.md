@@ -47,14 +47,14 @@ I specialize in building production-grade SaaS platforms, AI-driven workflows an
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,cs"/>
 <img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/solidity.svg" height="48"/>
 </p>
 
 ### 🎨 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 <img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/framermotion.svg" height="48"/>
 <img width="8"/>
 </p>
 
@@ -82,7 +82,7 @@ I specialize in building production-grade SaaS platforms, AI-driven workflows an
 ### 🔐 Auth & Identity
 <p>
 <!-- svg code for auth0-->
-  <svg height="38" style="background-color: white; border-radius: 8px; padding: 4px;" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2"><path fill="#000000" d="M76.598 219.534c81.954-13.469 146.22-77.719 159.673-159.672l6.609-39.875c1.219-7.75-5.063-14.516-12.89-13.953-62.391 4.812-121.188 25.531-153.72 38.812a42.042 42.042 0 00-26.094 38.907v125.984c0 7.422 6.61 13.047 13.938 11.828l12.484-2.03zM275.74 59.862c13.453 81.953 77.703 146.203 159.672 159.656l12.468 2.047c7.344 1.22 13.938-4.406 13.938-11.828V83.753c0-17.047-10.344-32.375-26.094-38.907-32.453-13.375-91.328-34-153.703-38.812-7.844-.578-14.203 6.203-12.891 13.937l6.61 39.89zM435.474 259.081c-81.953 13.453-146.219 77.719-159.672 159.672l-8.156 77.797c-.735 7.016 7.015 11.985 12.89 8.078 0 0 .078 0 .157-.078 51.375-34.672 168.64-125.422 180.219-238.781.578-5.547-4.407-10.11-9.86-9.22l-15.5 2.532h-.078zM236.24 418.722c-13.47-81.953-77.72-146.22-159.673-159.672l-16.719-2.781c-4.89-.813-9.296 3.265-8.812 8.25 11.016 114 129.906 205.328 181.688 239.984 5.39 3.594 12.484-.734 11.828-7.172l-8.235-78.687-.078.078z" fill-rule="nonzero"/></svg>
+<img src="./assets/icons/auth0.svg" height="48"/>
 <img width="6"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" height="48"/>
 <img width="6"/>
@@ -113,42 +113,42 @@ I specialize in building production-grade SaaS platforms, AI-driven workflows an
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 <img width="6"/>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/langchain.svg" height="48"/>
 </p>
 
 ### 🧠 Developer Workflow & AI Tools
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,github"/>
 <img width="6"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/zsh.svg" height="48"/>
 <br/><br/>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/copilot.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/copilot.svg" height="48"/>
 <img width="6"/>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/gemini.svg" height="48"/>
 <img width="6"/>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cline.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/cline.svg" height="48"/>
 <img width="6"/>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/crewai.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/crewai.svg" height="48"/>
 <img width="6"/>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/cursor.svg" height="48"/>
 <img width="6"/>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mcp.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/mcp.svg" height="48"/>
 <img width="6"/>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/n8n.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/n8n.svg" height="48"/>
 <img width="6"/>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openclaw.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/openclaw.svg" height="48"/>
 <br/><br/>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/windsurf.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/windsurf.svg" height="48"/>
 <img width="6"/>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/deepseek.svg" height="48"/>
 <img width="6"/>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/ollama.svg" height="48"/>
 <img width="6"/>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/claude.svg" height="48"/>
 <img width="6"/>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/openai.svg" height="48"/>
 <img width="6"/>
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface.svg" height="38" style="background-color: white; border-radius: 8px; padding: 4px;"/>
+<img src="./assets/icons/huggingface.svg" height="48"/>
 </p>
 ---
 
